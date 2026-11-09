@@ -1,0 +1,9 @@
+joblib==1.4.2
+numpy==2.2.6
+pandas==2.2.3
+python-dateutil==4.0.0
+pytz==2026.6
+scikit-learn==1.6.1
+scipy==1.15.3
+threadpoolctl==3.8.0
+tzdata==2026.6
